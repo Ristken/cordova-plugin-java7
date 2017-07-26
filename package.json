@@ -1,0 +1,11 @@
+{
+  "name": "cordova-plugin-java7",
+  "version": "0.0.1",
+  "cordova": {
+    "id": "cordova-plugin-java7",
+    "platforms": [
+      "android"
+    ]
+  },
+  "description": "Java7 Plugin"
+}
